@@ -5,4 +5,4 @@
 
 # Macintosh Source 7G🖥️🍏MAC-资源
 - [Cmacapps](https://cmacapps.com/) * ???*
-- [Mac Torrent Download] (https://mac-torrent-download.net/) Torrents for Mac Apps, Games, Plugins
+- [Mac Torrent Download](https://mac-torrent-download.net/) Torrents for Mac Apps, Games, Plugins
