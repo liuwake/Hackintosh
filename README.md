@@ -19,3 +19,22 @@
 ### Proj 项目
 
 [macOS Mojave Patcher Tool for Unsupported Macs](http://dosdude1.com/mojave/)
+
+# 流程
+
+## Clover
+- https://github.com/RehabMan/Clover s143
+- https://github.com/athlonreg/Clover_Build s102
+- https://github.com/Micky1979/Clover-Configurator-Pro s53
+
+## Diver
+- https://github.com/acidanthera/WhateverGreen s1012
+- https://github.com/RehabMan/OS-X-USB-Inject-All s393
+- https://github.com/toleda/audio_CloverALC s714
+- https://github.com/acidanthera/AppleALC s1500
+- https://github.com/acidanthera/Lilu s1588
+- https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller s414
+
+## Tools
+- https://github.com/tekezo/Karabiner-Elements s8881
+- 
