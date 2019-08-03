@@ -35,6 +35,7 @@
 - https://github.com/acidanthera/Lilu s1588
 - https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller s414
 - https://github.com/Benjamin-Dobell/nvidia-update s976
+- https://github.com/RehabMan/patch-nvme s384
 
 ## Tools
 - https://github.com/tekezo/Karabiner-Elements s8881
