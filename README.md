@@ -40,3 +40,28 @@
 ## Tools
 - https://github.com/tekezo/Karabiner-Elements s8881
 - 
+
+## Soft
+- brew
+- archey
+
+  ```
+  brew archey
+  archey
+  ```
+
+  ```
+                ###                  User: liuwake
+               ####                   Hostname: 192.168.0.122
+               ###                    Distro: OS X 10.13.6
+       #######    #######             Kernel: Darwin
+     ######################           Uptime: 4 days
+    #####################             Shell: /bin/bash
+    ####################              Terminal: xterm-256color Apple Terminal
+    ####################              CPU: Intel Xeon CPU E3-1231 v3 @ 3.40GHz
+    #####################             Memory: 16 GB
+     ######################           Disk: 78%
+      ####################            IP Address: 123.233.33.39
+        ################              
+         ####     #####               
+    ```
